@@ -2,40 +2,105 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://dathix.github.io/</loc>
+    <loc>http://danielreissner.com/</loc>
+    <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://dathix.github.io/work/proj-1/</loc>
+    <loc>http://danielreissner.com/de/work/proj-1/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://dathix.github.io/work/proj-2/</loc>
+    <loc>http://danielreissner.com/de/work/proj-2/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://dathix.github.io/work/proj-3/</loc>
+    <loc>http://danielreissner.com/de/work/proj-3/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://dathix.github.io/work/proj-4/</loc>
+    <loc>http://danielreissner.com/de/work/proj-4/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://dathix.github.io/work/proj-5/</loc>
+    <loc>http://danielreissner.com/de/work/proj-5/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://dathix.github.io/work/proj-6/</loc>
+    <loc>http://danielreissner.com/de/work/proj-6/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://dathix.github.io/work/proj-7/</loc>
+    <loc>http://danielreissner.com/de/work/proj-7/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://dathix.github.io/work/proj-8/</loc>
+    <loc>http://danielreissner.com/de/work/proj-8/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://danielreissner.com/en/work/proj-1/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://danielreissner.com/en/work/proj-2/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://danielreissner.com/en/work/proj-3/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://danielreissner.com/en/work/proj-4/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://danielreissner.com/en/work/proj-5/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://danielreissner.com/en/work/proj-6/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://danielreissner.com/en/work/proj-7/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://danielreissner.com/en/work/proj-8/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
 </urlset>
